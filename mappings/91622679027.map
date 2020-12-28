@@ -1,0 +1,843 @@
+1 || SERVER-IIS cmd.exe access || cve,23443 || cve,1996-1721 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+2 || FILE-OTHER Oracle Java font rendering remote code execution attempt || nessus,552 || cve,1998-3683 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+3 || BLACKLIST DNS request for known malware domain || msb,20536 || cve,2010-3644 || url,www.f-secure.com/weblog/archives/00002227.html
+4 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || nessus,17598 || cve,2002-1821 || url,technet.microsoft.com/en-us/security/advisory/953839
+5 || NETBIOS NS lookup short response attempt || nessus,7802 || cve,2005-989 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+6 || BLACKLIST DNS request for known malware domain || nessus,24723 || cve,1996-3855 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+7 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || arachnids,20487 || cve,1995-2904 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+8 || SERVER-IIS bdir access || osvdb,20374 || cve,2004-471 || url,www.2-seek.com/toolbar.php
+9 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || arachnids,31844 || cve,2011-2175 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+10 || INDICATOR-SHELLCODE sparc NOOP || cve,12154 || cve,2010-478 || url,www.2-seek.com/toolbar.php
+11 || SERVER-IIS cmd.exe access || bugtraq,7713 || cve,2010-3694 || url,technet.microsoft.com/en-us/security/advisory/953839
+12 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || bugtraq,11740 || cve,2009-470 || url,www.f-secure.com/weblog/archives/00002227.html
+13 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || url,3021 || cve,2002-2753 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+14 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || bugtraq,6568 || cve,2012-581 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+15 || BLACKLIST DNS request for known malware domain || msb,37554 || cve,1996-428 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+16 || BLACKLIST User-Agent known malicious user agent - spam_bot || nessus,7898 || cve,2005-2984 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+17 || SERVER-ORACLE EXECUTE_SYSTEM attempt || mcafee,35010 || cve,1995-1197 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+18 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || arachnids,19214 || cve,2001-373 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+19 || SERVER-MAIL Sendmail 5.5.5 exploit || mcafee,3147 || cve,2003-991 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+20 || APP-DETECT Absolute Software Computrace outbound connection || arachnids,23313 || cve,2002-407 || url,en.wikipedia.org/wiki/.ram
+21 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || nessus,18588 || cve,1995-968 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+22 || DELETED FILE-IDENTIFY MIME file type file download request || mcafee,35894 || cve,2007-1496 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+23 || MALWARE-BACKDOOR - Dagger_1.4.0 || url,12233 || cve,1999-3446 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+24 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || url,5443 || cve,2013-1678 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+25 || SERVER-MAIL Sendmail 5.5.5 exploit || nessus,12791 || cve,2005-3788 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+26 || MALWARE-BACKDOOR - Dagger_1.4.0 || msb,4967 || cve,1999-2670 || url,labs.snort.org/docs/18370.html
+27 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || mcafee,12500 || cve,2001-3435 || url,www.spywareguide.com/product_show.php?id=651
+28 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || nessus,19872 || cve,2012-2402 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+29 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || mcafee,6100 || cve,1995-1124 || url,en.wikipedia.org/wiki/MIME
+30 || SERVER-OTHER LPD dvips remote command execution attempt || msb,30318 || cve,2011-2750 || url,labs.snort.org/docs/18370.html
+31 || PROTOCOL-ICMP Mobile Registration Reply || osvdb,14239 || cve,2010-2810 || url,en.wikipedia.org/wiki/Microsoft_access
+32 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || cve,23980 || cve,2009-1439 || url,www.isi.edu/in-notes/rfc1122.txt
+33 || SERVER-ORACLE EXECUTE_SYSTEM attempt || nessus,19229 || cve,2001-2780 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+34 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || nessus,22890 || cve,2010-3808 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+35 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || url,22419 || cve,1996-2665 || url,www.f-secure.com/weblog/archives/00002227.html
+36 || DELETED FILE-IDENTIFY MIME file type file download request || osvdb,14348 || cve,2011-1389 || url,www.virustotal.com/file/
+37 || SERVER-IIS bdir access || url,21979 || cve,2011-1282 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+38 || NETBIOS NS lookup short response attempt || mcafee,12153 || cve,2006-1954 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+39 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || bugtraq,38043 || cve,2008-831 || url,www.isi.edu/in-notes/rfc1122.txt
+40 || SERVER-MAIL VRFY overflow attempt || nessus,27943 || cve,2012-397 || url,technet.microsoft.com/en-us/security/advisory/953839
+41 || SERVER-OTHER LPD dvips remote command execution attempt || bugtraq,25803 || cve,2009-1892 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+42 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || msb,20241 || cve,2012-3332 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+43 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || msb,18805 || cve,2004-381 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+44 || SERVER-IIS bdir access || osvdb,14758 || cve,1995-905 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+45 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,27524 || cve,2010-1535 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+46 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || msb,31686 || cve,2009-1221 || url,technet.microsoft.com/en-us/security/advisory/911052
+47 || DELETED FILE-IDENTIFY MIME file type file download request || bugtraq,26739 || cve,2013-3135 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+48 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || url,34235 || cve,2001-2386 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+49 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || arachnids,36774 || cve,2003-3994 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+50 || PROTOCOL-ICMP Mobile Registration Reply || bugtraq,21159 || cve,2002-961 || url,en.wikipedia.org/wiki/MIME
+51 || SERVER-IIS cmd.exe access || osvdb,33716 || cve,2003-3874 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+52 || NETBIOS NS lookup short response attempt || msb,16984 || cve,2002-2770 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+53 || INDICATOR-SHELLCODE sparc NOOP || msb,4017 || cve,1995-2048 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+54 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,22545 || cve,1995-612 || url,www.spywareguide.com/product_show.php?id=651
+55 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || osvdb,38908 || cve,2009-2135 || url,technet.microsoft.com/en-us/security/advisory/953839
+56 || DELETED FILE-IDENTIFY MIME file type file download request || arachnids,453 || cve,2007-689 || url,www.spywareguide.com/product_show.php?id=651
+57 || BLACKLIST DNS request for known malware domain || nessus,28484 || cve,2001-3221 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+58 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || bugtraq,19756 || cve,2013-419 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+59 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || cve,1802 || cve,2004-3542 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+60 || FILE-IMAGE JPEG parser multipacket heap overflow || nessus,4904 || cve,2006-391 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+61 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || cve,29822 || cve,2003-293 || url,www.f-secure.com/weblog/archives/00002227.html
+62 || DELETED FILE-IDENTIFY MIME file type file download request || nessus,35647 || cve,2010-1742 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+63 || SERVER-OTHER LPD dvips remote command execution attempt || osvdb,34190 || cve,2005-2836 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+64 || SERVER-ORACLE EXECUTE_SYSTEM attempt || cve,32403 || cve,2010-2296 || url,labs.snort.org/docs/18370.html
+65 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || msb,15499 || cve,2002-1535 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+66 || BLACKLIST DNS request for known malware domain || osvdb,25838 || cve,1999-3150 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+67 || SERVER-MAIL VRFY overflow attempt || url,26959 || cve,2001-1996 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+68 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || url,403 || cve,2001-2963 || url,www.2-seek.com/toolbar.php
+69 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || nessus,19146 || cve,2007-2458 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+70 || BLACKLIST DNS request for known malware domain || nessus,10131 || cve,2008-3143 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+71 || SERVER-OTHER LPD dvips remote command execution attempt || nessus,21588 || cve,2005-3574 || url,www.spywareguide.com/product_show.php?id=651
+72 || INDICATOR-SHELLCODE sparc NOOP || mcafee,30045 || cve,1995-2444 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+73 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || nessus,7751 || cve,2009-2503 || url,www.isi.edu/in-notes/rfc1122.txt
+74 || MALWARE-BACKDOOR - Dagger_1.4.0 || osvdb,9466 || cve,2007-3618 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+75 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,29193 || cve,1998-3841 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+76 || DELETED FILE-IDENTIFY MIME file type file download request || cve,19242 || cve,2011-1537 || url,www.isi.edu/in-notes/rfc1122.txt
+77 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,4425 || cve,1999-2601 || url,www.f-secure.com/weblog/archives/00002227.html
+78 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || osvdb,18738 || cve,1996-770 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+79 || APP-DETECT Absolute Software Computrace outbound connection || arachnids,19967 || cve,2003-2602 || url,technet.microsoft.com/en-us/security/advisory/911052
+80 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || arachnids,26552 || cve,2002-914 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+81 || SERVER-ORACLE EXECUTE_SYSTEM attempt || nessus,18808 || cve,2008-2909 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+82 || FILE-IMAGE JPEG parser multipacket heap overflow || mcafee,26808 || cve,1997-795 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+83 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || nessus,38973 || cve,1999-2725 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+84 || PROTOCOL-ICMP Mobile Registration Reply || nessus,39182 || cve,1996-2602 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+85 || PROTOCOL-ICMP Mobile Registration Reply || msb,12059 || cve,2011-415 || url,en.wikipedia.org/wiki/Microsoft_access
+86 || NETBIOS NS lookup short response attempt || cve,16888 || cve,2013-3210 || url,technet.microsoft.com/en-us/security/advisory/953839
+87 || SERVER-ORACLE EXECUTE_SYSTEM attempt || osvdb,9055 || cve,2007-3531 || url,labs.snort.org/docs/18370.html
+88 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || msb,10543 || cve,2013-3488 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+89 || SERVER-WEBAPP carbo.dll access || arachnids,1222 || cve,2009-244 || url,labs.snort.org/docs/18370.html
+90 || MALWARE-BACKDOOR - Dagger_1.4.0 || nessus,37665 || cve,2009-3023 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+91 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || url,12720 || cve,2005-3318 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+92 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || nessus,19789 || cve,2007-1994 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+93 || SERVER-IIS cmd.exe access || bugtraq,20052 || cve,1998-427 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+94 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || arachnids,28794 || cve,2001-3226 || url,en.wikipedia.org/wiki/Microsoft_access
+95 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || mcafee,19199 || cve,1996-629 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+96 || SERVER-MAIL VRFY overflow attempt || mcafee,19826 || cve,2003-765 || url,technet.microsoft.com/en-us/security/advisory/953839
+97 || INDICATOR-SHELLCODE sparc NOOP || msb,35961 || cve,2007-3783 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+98 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || arachnids,15612 || cve,2009-1011 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+99 || PROTOCOL-ICMP Mobile Registration Reply || nessus,29576 || cve,2013-560 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+100 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || msb,8220 || cve,1995-836 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+101 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || bugtraq,33507 || cve,2007-2757 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+102 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || nessus,30340 || cve,2011-2825 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+103 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || bugtraq,302 || cve,1999-294 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+104 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || mcafee,24530 || cve,2007-1693 || url,www.spywareguide.com/product_show.php?id=651
+105 || SERVER-OTHER LPD dvips remote command execution attempt || nessus,20315 || cve,1995-3353 || url,www.spywareguide.com/product_show.php?id=651
+106 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || bugtraq,11804 || cve,2010-550 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+107 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || mcafee,31025 || cve,2006-1465 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+108 || BLACKLIST DNS request for known malware domain || nessus,39693 || cve,2006-3211 || url,technet.microsoft.com/en-us/security/advisory/911052
+109 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || osvdb,23015 || cve,1997-2181 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+110 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || msb,7779 || cve,2006-1793 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+111 || SERVER-IIS cmd.exe access || msb,9061 || cve,2001-3466 || url,technet.microsoft.com/en-us/security/advisory/953839
+112 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || cve,23302 || cve,2010-1327 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+113 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || arachnids,1368 || cve,1998-3918 || url,en.wikipedia.org/wiki/Microsoft_access
+114 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,13381 || cve,2007-3904 || url,www.f-secure.com/weblog/archives/00002227.html
+115 || BLACKLIST DNS request for known malware domain || mcafee,35333 || cve,2012-1353 || url,en.wikipedia.org/wiki/Microsoft_access
+116 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,11804 || cve,2013-1888 || url,www.spywareguide.com/product_show.php?id=651
+117 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || bugtraq,12468 || cve,2007-695 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+118 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || msb,39797 || cve,2007-361 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+119 || BLACKLIST DNS request for known malware domain || osvdb,3874 || cve,1996-2757 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+120 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || nessus,5883 || cve,2012-887 || url,en.wikipedia.org/wiki/MIME
+121 || SCADA Schneider Electric IGSS integer underflow attempt || arachnids,8232 || cve,2011-1535 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+122 || SCADA Schneider Electric IGSS integer underflow attempt || url,21796 || cve,1995-2272 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+123 || DELETED FILE-IDENTIFY MIME file type file download request || mcafee,18378 || cve,1996-2047 || url,en.wikipedia.org/wiki/.ram
+124 || APP-DETECT Absolute Software Computrace outbound connection || osvdb,2039 || cve,2012-2163 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+125 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || nessus,32556 || cve,1997-3471 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+126 || BLACKLIST DNS request for known malware domain || msb,6159 || cve,2010-2430 || url,en.wikipedia.org/wiki/Microsoft_access
+127 || SERVER-MAIL VRFY overflow attempt || osvdb,30332 || cve,2004-1945 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+128 || BLACKLIST DNS request for known malware domain || osvdb,6498 || cve,2004-2840 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+129 || SERVER-ORACLE EXECUTE_SYSTEM attempt || arachnids,941 || cve,2002-1082 || url,www.2-seek.com/toolbar.php
+130 || FILE-OTHER Oracle Java font rendering remote code execution attempt || url,4576 || cve,2008-989 || url,www.isi.edu/in-notes/rfc1122.txt
+131 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || cve,31516 || cve,2012-3647 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+132 || SCADA Schneider Electric IGSS integer underflow attempt || bugtraq,17518 || cve,2008-2898 || url,www.isi.edu/in-notes/rfc1122.txt
+133 || NETBIOS NS lookup short response attempt || msb,19991 || cve,2007-1651 || url,www.f-secure.com/weblog/archives/00002227.html
+134 || BLACKLIST DNS request for known malware domain || bugtraq,11509 || cve,2010-1349 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+135 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || msb,12464 || cve,2000-1698 || url,www.f-secure.com/weblog/archives/00002227.html
+136 || SCADA Schneider Electric IGSS integer underflow attempt || nessus,14371 || cve,2004-897 || url,en.wikipedia.org/wiki/.ram
+137 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || mcafee,16716 || cve,2004-2466 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+138 || SCADA Schneider Electric IGSS integer underflow attempt || msb,5885 || cve,2012-3929 || url,www.virustotal.com/file/
+139 || SERVER-MAIL Sendmail 5.5.5 exploit || mcafee,9546 || cve,2012-2853 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+140 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || mcafee,22163 || cve,1999-973 || url,www.f-secure.com/weblog/archives/00002227.html
+141 || FILE-OTHER Oracle Java font rendering remote code execution attempt || nessus,21725 || cve,1999-3733 || url,www.2-seek.com/toolbar.php
+142 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || bugtraq,36634 || cve,2007-3826 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+143 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,16587 || cve,2001-3142 || url,en.wikipedia.org/wiki/.ram
+144 || FILE-OTHER Oracle Java font rendering remote code execution attempt || arachnids,31216 || cve,1998-3366 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+145 || PROTOCOL-ICMP Mobile Registration Reply || mcafee,19348 || cve,2004-1636 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+146 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || mcafee,9270 || cve,1996-2021 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+147 || SERVER-ORACLE EXECUTE_SYSTEM attempt || url,39966 || cve,2004-592 || url,en.wikipedia.org/wiki/.ram
+148 || SERVER-WEBAPP carbo.dll access || cve,7718 || cve,1999-761 || url,technet.microsoft.com/en-us/security/advisory/911052
+149 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || osvdb,22332 || cve,1997-3477 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+150 || DELETED FILE-IDENTIFY MIME file type file download request || url,17282 || cve,2002-2538 || url,technet.microsoft.com/en-us/security/advisory/911052
+151 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || osvdb,15166 || cve,2001-3301 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+152 || SERVER-OTHER LPD dvips remote command execution attempt || url,11349 || cve,2004-292 || url,www.f-secure.com/weblog/archives/00002227.html
+153 || NETBIOS NS lookup short response attempt || osvdb,9628 || cve,2007-2640 || url,technet.microsoft.com/en-us/security/advisory/953839
+154 || SERVER-IIS cmd.exe access || osvdb,8217 || cve,2004-2109 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+155 || APP-DETECT Absolute Software Computrace outbound connection || osvdb,18852 || cve,1996-2474 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+156 || APP-DETECT Absolute Software Computrace outbound connection || cve,19999 || cve,1998-1174 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+157 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || url,7440 || cve,1996-1476 || url,en.wikipedia.org/wiki/Microsoft_access
+158 || INDICATOR-SHELLCODE sparc NOOP || msb,33288 || cve,2011-201 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+159 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || mcafee,10927 || cve,2003-2384 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+160 || DELETED FILE-IDENTIFY MIME file type file download request || bugtraq,22456 || cve,2004-1646 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+161 || BLACKLIST User-Agent known malicious user agent - spam_bot || url,11937 || cve,2007-2421 || url,www.f-secure.com/weblog/archives/00002227.html
+162 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || url,22504 || cve,2003-3607 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+163 || PROTOCOL-ICMP Mobile Registration Reply || msb,35677 || cve,2005-1413 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+164 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,11470 || cve,2004-3016 || url,www.virustotal.com/file/
+165 || DELETED FILE-IDENTIFY MIME file type file download request || cve,2923 || cve,2005-1584 || url,en.wikipedia.org/wiki/Microsoft_access
+166 || SERVER-ORACLE EXECUTE_SYSTEM attempt || mcafee,27471 || cve,2008-2062 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+167 || MALWARE-BACKDOOR - Dagger_1.4.0 || url,15767 || cve,2011-948 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+168 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || url,23889 || cve,2004-1328 || url,en.wikipedia.org/wiki/Microsoft_access
+169 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || arachnids,24773 || cve,2012-1831 || url,labs.snort.org/docs/18370.html
+170 || SERVER-IIS cmd.exe access || arachnids,25376 || cve,2003-1342 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+171 || BLACKLIST User-Agent known malicious user agent - spam_bot || nessus,21152 || cve,2003-2481 || url,en.wikipedia.org/wiki/.ram
+172 || NETBIOS NS lookup short response attempt || msb,28616 || cve,2008-3263 || url,www.spywareguide.com/product_show.php?id=651
+173 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,2591 || cve,2008-2832 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+174 || FILE-IMAGE JPEG parser multipacket heap overflow || osvdb,14740 || cve,2004-756 || url,www.spywareguide.com/product_show.php?id=651
+175 || FILE-IMAGE JPEG parser multipacket heap overflow || bugtraq,37605 || cve,2001-3056 || url,www.isi.edu/in-notes/rfc1122.txt
+176 || NETBIOS NS lookup short response attempt || bugtraq,9681 || cve,2009-3966 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+177 || FILE-OTHER Oracle Java font rendering remote code execution attempt || arachnids,39558 || cve,1996-2436 || url,www.isi.edu/in-notes/rfc1122.txt
+178 || SCADA Schneider Electric IGSS integer underflow attempt || arachnids,31386 || cve,2002-2842 || url,en.wikipedia.org/wiki/MIME
+179 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || msb,23785 || cve,1995-583 || url,en.wikipedia.org/wiki/MIME
+180 || SERVER-WEBAPP carbo.dll access || mcafee,34260 || cve,1995-2901 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+181 || SERVER-OTHER LPD dvips remote command execution attempt || url,14712 || cve,2005-2707 || url,www.f-secure.com/weblog/archives/00002227.html
+182 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || cve,31665 || cve,2008-3947 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+183 || FILE-OTHER Oracle Java font rendering remote code execution attempt || mcafee,7106 || cve,2011-3746 || url,en.wikipedia.org/wiki/Microsoft_access
+184 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || bugtraq,1015 || cve,2007-2517 || url,en.wikipedia.org/wiki/MIME
+185 || APP-DETECT Absolute Software Computrace outbound connection || cve,19422 || cve,2005-3373 || url,en.wikipedia.org/wiki/.ram
+186 || SERVER-WEBAPP carbo.dll access || nessus,5346 || cve,2003-1150 || url,www.2-seek.com/toolbar.php
+187 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || url,33867 || cve,2012-1938 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+188 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || bugtraq,26489 || cve,2011-1396 || url,en.wikipedia.org/wiki/.ram
+189 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || arachnids,33404 || cve,2003-1058 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+190 || PROTOCOL-ICMP Mobile Registration Reply || mcafee,13127 || cve,2006-426 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+191 || SERVER-OTHER LPD dvips remote command execution attempt || cve,25000 || cve,1999-769 || url,technet.microsoft.com/en-us/security/advisory/953839
+192 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || mcafee,31867 || cve,2010-3484 || url,labs.snort.org/docs/18370.html
+193 || INDICATOR-SHELLCODE sparc NOOP || nessus,35423 || cve,2009-2254 || url,en.wikipedia.org/wiki/MIME
+194 || FILE-OTHER Oracle Java font rendering remote code execution attempt || mcafee,5217 || cve,1998-1671 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+195 || MALWARE-BACKDOOR - Dagger_1.4.0 || bugtraq,23958 || cve,2001-1389 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+196 || APP-DETECT Absolute Software Computrace outbound connection || mcafee,39089 || cve,1998-2828 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+197 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || cve,31919 || cve,1999-2791 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+198 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || url,19468 || cve,2011-2683 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+199 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || arachnids,11383 || cve,2009-1616 || url,en.wikipedia.org/wiki/Microsoft_access
+200 || SERVER-IIS bdir access || nessus,22495 || cve,2008-2039 || url,www.f-secure.com/weblog/archives/00002227.html
+201 || SERVER-MAIL Sendmail 5.5.5 exploit || msb,11980 || cve,2013-851 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+202 || SCADA Schneider Electric IGSS integer underflow attempt || url,5068 || cve,2003-1593 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+203 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || bugtraq,38767 || cve,2008-2677 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+204 || SCADA Schneider Electric IGSS integer underflow attempt || msb,23976 || cve,2013-2701 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+205 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || cve,11172 || cve,2001-3037 || url,labs.snort.org/docs/18370.html
+206 || MALWARE-BACKDOOR - Dagger_1.4.0 || cve,14314 || cve,2002-659 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+207 || NETBIOS NS lookup short response attempt || arachnids,28499 || cve,2003-915 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+208 || INDICATOR-SHELLCODE sparc NOOP || bugtraq,16389 || cve,2003-1985 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+209 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || cve,35339 || cve,1999-2769 || url,en.wikipedia.org/wiki/MIME
+210 || FILE-OTHER Oracle Java font rendering remote code execution attempt || msb,5240 || cve,2010-2892 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+211 || NETBIOS NS lookup short response attempt || nessus,12793 || cve,2002-713 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+212 || FILE-IMAGE JPEG parser multipacket heap overflow || cve,38542 || cve,2000-764 || url,technet.microsoft.com/en-us/security/advisory/953839
+213 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || mcafee,23853 || cve,1998-3768 || url,www.spywareguide.com/product_show.php?id=651
+214 || INDICATOR-SHELLCODE sparc NOOP || cve,17785 || cve,2009-1051 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+215 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,19627 || cve,2011-1201 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+216 || SERVER-WEBAPP carbo.dll access || arachnids,23451 || cve,2005-520 || url,technet.microsoft.com/en-us/security/advisory/953839
+217 || SERVER-ORACLE EXECUTE_SYSTEM attempt || nessus,5784 || cve,2006-912 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+218 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || arachnids,31319 || cve,2002-3516 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+219 || DELETED FILE-IDENTIFY MIME file type file download request || cve,30204 || cve,2012-2929 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+220 || SERVER-WEBAPP carbo.dll access || nessus,9515 || cve,1995-643 || url,en.wikipedia.org/wiki/Microsoft_access
+221 || SCADA Schneider Electric IGSS integer underflow attempt || osvdb,17347 || cve,2010-1038 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+222 || MALWARE-BACKDOOR - Dagger_1.4.0 || cve,29586 || cve,2000-3742 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+223 || BLACKLIST DNS request for known malware domain || osvdb,27410 || cve,1995-3630 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+224 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || arachnids,5795 || cve,1997-834 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+225 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || cve,27832 || cve,1997-2868 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+226 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || bugtraq,32594 || cve,2012-2813 || url,technet.microsoft.com/en-us/security/advisory/911052
+227 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || arachnids,36786 || cve,2005-3497 || url,www.virustotal.com/file/
+228 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || nessus,20282 || cve,1995-566 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+229 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || msb,34063 || cve,1999-3679 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+230 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || osvdb,27386 || cve,2013-1182 || url,technet.microsoft.com/en-us/security/advisory/911052
+231 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || url,32866 || cve,1998-850 || url,technet.microsoft.com/en-us/security/advisory/911052
+232 || DELETED FILE-IDENTIFY MIME file type file download request || bugtraq,9359 || cve,2007-3632 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+233 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || url,21472 || cve,1996-206 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+234 || NETBIOS NS lookup short response attempt || arachnids,4396 || cve,1998-1781 || url,en.wikipedia.org/wiki/Microsoft_access
+235 || BLACKLIST DNS request for known malware domain || url,13818 || cve,1995-3516 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+236 || SERVER-IIS bdir access || bugtraq,26769 || cve,2004-3774 || url,www.2-seek.com/toolbar.php
+237 || PROTOCOL-ICMP Mobile Registration Reply || arachnids,22816 || cve,2008-2910 || url,www.2-seek.com/toolbar.php
+238 || SERVER-OTHER LPD dvips remote command execution attempt || mcafee,11204 || cve,2008-423 || url,technet.microsoft.com/en-us/security/advisory/953839
+239 || BLACKLIST User-Agent known malicious user agent - spam_bot || nessus,38044 || cve,2011-768 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+240 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || url,31626 || cve,1998-3275 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+241 || SERVER-IIS cmd.exe access || nessus,32610 || cve,2008-1292 || url,www.spywareguide.com/product_show.php?id=651
+242 || SERVER-WEBAPP carbo.dll access || url,25017 || cve,2005-2061 || url,en.wikipedia.org/wiki/MIME
+243 || DELETED FILE-IDENTIFY MIME file type file download request || cve,12480 || cve,2007-1199 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+244 || SERVER-WEBAPP carbo.dll access || osvdb,28403 || cve,1998-2483 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+245 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || nessus,18586 || cve,2000-829 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+246 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || mcafee,10842 || cve,2010-1595 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+247 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || arachnids,29902 || cve,2012-810 || url,en.wikipedia.org/wiki/Microsoft_access
+248 || MALWARE-BACKDOOR - Dagger_1.4.0 || msb,17154 || cve,2007-3417 || url,www.virustotal.com/file/
+249 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || nessus,17779 || cve,2003-372 || url,www.virustotal.com/file/
+250 || MALWARE-BACKDOOR - Dagger_1.4.0 || bugtraq,18371 || cve,1997-963 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+251 || BLACKLIST User-Agent known malicious user agent - spam_bot || url,38542 || cve,2001-1666 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+252 || SERVER-ORACLE EXECUTE_SYSTEM attempt || url,33719 || cve,2007-2772 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+253 || APP-DETECT Absolute Software Computrace outbound connection || osvdb,20188 || cve,2007-2130 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+254 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || mcafee,20324 || cve,2010-888 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+255 || SERVER-IIS bdir access || msb,3314 || cve,2011-1324 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+256 || SERVER-IIS bdir access || bugtraq,18714 || cve,1999-738 || url,technet.microsoft.com/en-us/security/advisory/911052
+257 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || msb,17738 || cve,1995-3544 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+258 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || mcafee,17654 || cve,2006-1940 || url,labs.snort.org/docs/18370.html
+259 || NETBIOS NS lookup short response attempt || osvdb,10519 || cve,2011-3544 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+260 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || mcafee,28443 || cve,2009-1837 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+261 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || url,3738 || cve,2007-2752 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+262 || DELETED FILE-IDENTIFY MIME file type file download request || url,18507 || cve,1999-1289 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+263 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || nessus,7551 || cve,2013-1704 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+264 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || mcafee,28083 || cve,2006-3455 || url,technet.microsoft.com/en-us/security/advisory/911052
+265 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || nessus,14089 || cve,2013-659 || url,www.virustotal.com/file/
+266 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || mcafee,19599 || cve,2011-545 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+267 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || arachnids,30876 || cve,1997-2103 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+268 || MALWARE-BACKDOOR - Dagger_1.4.0 || cve,16558 || cve,2003-3150 || url,en.wikipedia.org/wiki/MIME
+269 || PROTOCOL-ICMP Mobile Registration Reply || nessus,28083 || cve,2009-941 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+270 || INDICATOR-SHELLCODE sparc NOOP || arachnids,11605 || cve,2000-2222 || url,www.virustotal.com/file/
+271 || SERVER-IIS bdir access || msb,12619 || cve,2002-711 || url,en.wikipedia.org/wiki/.ram
+272 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || nessus,10805 || cve,1996-3351 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+273 || APP-DETECT Absolute Software Computrace outbound connection || bugtraq,17399 || cve,2004-3541 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+274 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || nessus,27197 || cve,2001-1283 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+275 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || url,22482 || cve,2000-3836 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+276 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || mcafee,46 || cve,2006-479 || url,www.virustotal.com/file/
+277 || SERVER-WEBAPP carbo.dll access || bugtraq,17608 || cve,2004-3415 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+278 || DELETED FILE-IDENTIFY MIME file type file download request || osvdb,34957 || cve,2012-2481 || url,www.2-seek.com/toolbar.php
+279 || MALWARE-BACKDOOR - Dagger_1.4.0 || cve,18999 || cve,2010-3567 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+280 || SERVER-ORACLE EXECUTE_SYSTEM attempt || cve,23222 || cve,2003-2478 || url,technet.microsoft.com/en-us/security/advisory/911052
+281 || NETBIOS NS lookup short response attempt || nessus,37306 || cve,2011-1756 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+282 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || mcafee,6226 || cve,1996-2096 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+283 || INDICATOR-SHELLCODE sparc NOOP || nessus,14168 || cve,2013-2133 || url,www.isi.edu/in-notes/rfc1122.txt
+284 || APP-DETECT Absolute Software Computrace outbound connection || url,22867 || cve,1995-3509 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+285 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || msb,23741 || cve,1999-846 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+286 || SERVER-WEBAPP carbo.dll access || msb,23561 || cve,2009-3648 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+287 || SERVER-OTHER LPD dvips remote command execution attempt || cve,6244 || cve,2007-1975 || url,en.wikipedia.org/wiki/MIME
+288 || SERVER-OTHER LPD dvips remote command execution attempt || nessus,4000 || cve,1996-232 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+289 || SERVER-ORACLE EXECUTE_SYSTEM attempt || nessus,34084 || cve,1997-3622 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+290 || PROTOCOL-ICMP Mobile Registration Reply || url,30825 || cve,2012-3595 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+291 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || mcafee,22987 || cve,2008-997 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+292 || PROTOCOL-ICMP Mobile Registration Reply || cve,27064 || cve,2002-671 || url,www.f-secure.com/weblog/archives/00002227.html
+293 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,24433 || cve,1996-2321 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+294 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || osvdb,6854 || cve,2012-1604 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+295 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || mcafee,14598 || cve,2010-2940 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+296 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,13248 || cve,2007-856 || url,www.virustotal.com/file/
+297 || SERVER-IIS cmd.exe access || nessus,31746 || cve,2008-1204 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+298 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || mcafee,33143 || cve,2012-374 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+299 || PROTOCOL-ICMP Mobile Registration Reply || osvdb,26906 || cve,2000-727 || url,labs.snort.org/docs/18370.html
+300 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || bugtraq,15885 || cve,2008-326 || url,www.2-seek.com/toolbar.php
+301 || SERVER-ORACLE EXECUTE_SYSTEM attempt || msb,32889 || cve,2010-808 || url,www.isi.edu/in-notes/rfc1122.txt
+302 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || msb,1756 || cve,1998-914 || url,labs.snort.org/docs/18370.html
+303 || FILE-IMAGE JPEG parser multipacket heap overflow || osvdb,31590 || cve,1995-2991 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+304 || FILE-OTHER Oracle Java font rendering remote code execution attempt || cve,34139 || cve,2002-810 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+305 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,19031 || cve,1998-788 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+306 || SERVER-WEBAPP carbo.dll access || bugtraq,18581 || cve,2001-1747 || url,en.wikipedia.org/wiki/.ram
+307 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || arachnids,7414 || cve,1999-2704 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+308 || INDICATOR-SHELLCODE sparc NOOP || nessus,21390 || cve,2001-3789 || url,en.wikipedia.org/wiki/.ram
+309 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || nessus,28808 || cve,1998-1450 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+310 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || msb,21123 || cve,2002-698 || url,en.wikipedia.org/wiki/MIME
+311 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || arachnids,17288 || cve,1995-3296 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+312 || SERVER-WEBAPP carbo.dll access || msb,39093 || cve,2011-2740 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+313 || SERVER-ORACLE EXECUTE_SYSTEM attempt || msb,10555 || cve,2013-1923 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+314 || SERVER-IIS bdir access || url,3590 || cve,2006-2803 || url,www.virustotal.com/file/
+315 || SERVER-MAIL Sendmail 5.5.5 exploit || arachnids,22004 || cve,2001-1224 || url,en.wikipedia.org/wiki/MIME
+316 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || mcafee,17707 || cve,1998-942 || url,en.wikipedia.org/wiki/MIME
+317 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,1888 || cve,2004-2203 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+318 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || bugtraq,20919 || cve,2008-3568 || url,labs.snort.org/docs/18370.html
+319 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || arachnids,14126 || cve,2006-1878 || url,www.virustotal.com/file/
+320 || FILE-OTHER Oracle Java font rendering remote code execution attempt || arachnids,38666 || cve,2000-3800 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+321 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || cve,4936 || cve,1995-3297 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+322 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || msb,35036 || cve,2012-2775 || url,labs.snort.org/docs/18370.html
+323 || NETBIOS NS lookup short response attempt || url,29643 || cve,2001-2309 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+324 || FILE-OTHER Oracle Java font rendering remote code execution attempt || nessus,38408 || cve,2011-852 || url,en.wikipedia.org/wiki/Microsoft_access
+325 || SERVER-OTHER LPD dvips remote command execution attempt || msb,33561 || cve,1998-2835 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+326 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || cve,1763 || cve,1995-3376 || url,www.2-seek.com/toolbar.php
+327 || SERVER-IIS bdir access || arachnids,15631 || cve,2013-724 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+328 || SERVER-MAIL Sendmail 5.5.5 exploit || url,26192 || cve,1995-3609 || url,www.2-seek.com/toolbar.php
+329 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || bugtraq,20527 || cve,2009-1515 || url,technet.microsoft.com/en-us/security/advisory/953839
+330 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || msb,19138 || cve,1998-2799 || url,www.f-secure.com/weblog/archives/00002227.html
+331 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || cve,36514 || cve,1998-2524 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+332 || FILE-OTHER Oracle Java font rendering remote code execution attempt || nessus,25700 || cve,2005-847 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+333 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || arachnids,32247 || cve,1999-2869 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+334 || BLACKLIST DNS request for known malware domain || msb,24321 || cve,1997-1774 || url,www.spywareguide.com/product_show.php?id=651
+335 || APP-DETECT Absolute Software Computrace outbound connection || mcafee,17765 || cve,2002-2522 || url,www.virustotal.com/file/
+336 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || nessus,15185 || cve,2004-604 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+337 || NETBIOS NS lookup short response attempt || osvdb,39419 || cve,2007-1038 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+338 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || nessus,21846 || cve,1995-546 || url,www.isi.edu/in-notes/rfc1122.txt
+339 || SERVER-WEBAPP carbo.dll access || cve,7327 || cve,2010-407 || url,en.wikipedia.org/wiki/.ram
+340 || SERVER-IIS cmd.exe access || bugtraq,36483 || cve,1996-461 || url,www.f-secure.com/weblog/archives/00002227.html
+341 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || nessus,21645 || cve,2009-3463 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+342 || MALWARE-BACKDOOR - Dagger_1.4.0 || msb,7312 || cve,2001-812 || url,www.virustotal.com/file/
+343 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || msb,37671 || cve,2000-1799 || url,www.spywareguide.com/product_show.php?id=651
+344 || INDICATOR-SHELLCODE sparc NOOP || osvdb,37748 || cve,2005-1041 || url,technet.microsoft.com/en-us/security/advisory/953839
+345 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || nessus,21825 || cve,2003-2821 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+346 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || cve,35873 || cve,2006-1910 || url,en.wikipedia.org/wiki/Microsoft_access
+347 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || osvdb,27017 || cve,2009-3256 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+348 || FILE-OTHER Oracle Java font rendering remote code execution attempt || bugtraq,32694 || cve,2000-930 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+349 || FILE-IMAGE JPEG parser multipacket heap overflow || mcafee,6316 || cve,1997-1626 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+350 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || url,13568 || cve,2013-2320 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+351 || DELETED FILE-IDENTIFY MIME file type file download request || msb,9231 || cve,2012-2213 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+352 || BLACKLIST User-Agent known malicious user agent - spam_bot || osvdb,14640 || cve,2003-2547 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+353 || PROTOCOL-ICMP Mobile Registration Reply || osvdb,14248 || cve,2010-1457 || url,www.isi.edu/in-notes/rfc1122.txt
+354 || INDICATOR-SHELLCODE sparc NOOP || arachnids,2818 || cve,1996-889 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+355 || INDICATOR-SHELLCODE sparc NOOP || mcafee,19491 || cve,2006-797 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+356 || MALWARE-BACKDOOR - Dagger_1.4.0 || mcafee,30289 || cve,2009-2285 || url,www.f-secure.com/weblog/archives/00002227.html
+357 || DELETED FILE-IDENTIFY MIME file type file download request || osvdb,17710 || cve,2000-366 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+358 || BLACKLIST User-Agent known malicious user agent - spam_bot || mcafee,19183 || cve,1996-2650 || url,www.2-seek.com/toolbar.php
+359 || FILE-OTHER Oracle Java font rendering remote code execution attempt || bugtraq,118 || cve,2008-3357 || url,www.spywareguide.com/product_show.php?id=651
+360 || SERVER-MAIL VRFY overflow attempt || url,37013 || cve,2010-2372 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+361 || SERVER-IIS bdir access || msb,32565 || cve,2012-787 || url,www.2-seek.com/toolbar.php
+362 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || url,36909 || cve,1998-2489 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+363 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || url,1008 || cve,2009-2656 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+364 || NETBIOS NS lookup short response attempt || arachnids,10029 || cve,2011-2712 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+365 || SERVER-MAIL VRFY overflow attempt || cve,1487 || cve,1997-2844 || url,labs.snort.org/docs/18370.html
+366 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || mcafee,34149 || cve,2003-2275 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+367 || MALWARE-BACKDOOR - Dagger_1.4.0 || url,37253 || cve,2002-3623 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+368 || INDICATOR-SHELLCODE sparc NOOP || cve,35004 || cve,2007-2475 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+369 || SERVER-IIS bdir access || mcafee,30550 || cve,2002-522 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+370 || INDICATOR-SHELLCODE sparc NOOP || nessus,36059 || cve,2013-771 || url,technet.microsoft.com/en-us/security/advisory/953839
+371 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || mcafee,20394 || cve,1998-3388 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+372 || MALWARE-BACKDOOR - Dagger_1.4.0 || cve,13384 || cve,2004-764 || url,www.2-seek.com/toolbar.php
+373 || SERVER-WEBAPP carbo.dll access || arachnids,9469 || cve,2005-3318 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+374 || BLACKLIST User-Agent known malicious user agent - spam_bot || nessus,36068 || cve,2011-302 || url,en.wikipedia.org/wiki/.ram
+375 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || bugtraq,16146 || cve,2001-350 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+376 || APP-DETECT Absolute Software Computrace outbound connection || mcafee,7220 || cve,2009-1336 || url,technet.microsoft.com/en-us/security/advisory/911052
+377 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || arachnids,25564 || cve,1996-2094 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+378 || SCADA Schneider Electric IGSS integer underflow attempt || bugtraq,4945 || cve,1995-259 || url,en.wikipedia.org/wiki/MIME
+379 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || bugtraq,15913 || cve,2003-1425 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+380 || SERVER-MAIL VRFY overflow attempt || msb,32506 || cve,1999-2094 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+381 || SERVER-IIS cmd.exe access || bugtraq,20973 || cve,1999-1830 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+382 || SERVER-OTHER LPD dvips remote command execution attempt || url,24225 || cve,2010-1359 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+383 || FILE-IMAGE JPEG parser multipacket heap overflow || nessus,36461 || cve,2008-1648 || url,en.wikipedia.org/wiki/Microsoft_access
+384 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || osvdb,20212 || cve,2003-221 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+385 || SCADA Schneider Electric IGSS integer underflow attempt || msb,10589 || cve,2002-2240 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+386 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || nessus,22709 || cve,2011-2060 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+387 || BLACKLIST DNS request for known malware domain || mcafee,20149 || cve,2000-772 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+388 || INDICATOR-SHELLCODE sparc NOOP || url,808 || cve,2006-3336 || url,www.f-secure.com/weblog/archives/00002227.html
+389 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || mcafee,20231 || cve,2005-3501 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+390 || SERVER-ORACLE EXECUTE_SYSTEM attempt || mcafee,7297 || cve,1999-890 || url,labs.snort.org/docs/18370.html
+391 || SERVER-ORACLE EXECUTE_SYSTEM attempt || cve,9099 || cve,2001-866 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+392 || BLACKLIST User-Agent known malicious user agent - spam_bot || arachnids,25311 || cve,2010-2679 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+393 || APP-DETECT Absolute Software Computrace outbound connection || arachnids,10414 || cve,2010-1405 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+394 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || msb,37630 || cve,1995-3006 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+395 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || msb,6481 || cve,1997-3791 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+396 || APP-DETECT Absolute Software Computrace outbound connection || mcafee,32154 || cve,1999-214 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+397 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,9107 || cve,2010-3647 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+398 || PROTOCOL-ICMP Mobile Registration Reply || msb,13346 || cve,2008-1236 || url,www.isi.edu/in-notes/rfc1122.txt
+399 || PROTOCOL-ICMP Mobile Registration Reply || nessus,2458 || cve,2009-2100 || url,en.wikipedia.org/wiki/Microsoft_access
+400 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,39634 || cve,2012-1428 || url,technet.microsoft.com/en-us/security/advisory/911052
+401 || NETBIOS NS lookup short response attempt || cve,17665 || cve,2000-353 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+402 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || cve,7723 || cve,1998-3391 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+403 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || bugtraq,30791 || cve,2007-1278 || url,www.f-secure.com/weblog/archives/00002227.html
+404 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || arachnids,9280 || cve,1997-3326 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+405 || SERVER-OTHER LPD dvips remote command execution attempt || msb,38795 || cve,2007-3408 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+406 || BLACKLIST DNS request for known malware domain || osvdb,3037 || cve,1998-1103 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+407 || MALWARE-BACKDOOR - Dagger_1.4.0 || osvdb,30582 || cve,2004-3685 || url,www.spywareguide.com/product_show.php?id=651
+408 || PROTOCOL-ICMP Mobile Registration Reply || bugtraq,32559 || cve,2000-2176 || url,en.wikipedia.org/wiki/MIME
+409 || SERVER-IIS cmd.exe access || arachnids,251 || cve,2010-1805 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+410 || SERVER-ORACLE EXECUTE_SYSTEM attempt || cve,31990 || cve,2002-3240 || url,www.f-secure.com/weblog/archives/00002227.html
+411 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || url,35265 || cve,2001-2644 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+412 || FILE-IMAGE JPEG parser multipacket heap overflow || osvdb,18304 || cve,2010-2789 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+413 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || nessus,29637 || cve,2008-3093 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+414 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || osvdb,32824 || cve,2008-2082 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+415 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || cve,21908 || cve,1999-1110 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+416 || SERVER-ORACLE EXECUTE_SYSTEM attempt || mcafee,19610 || cve,2004-1000 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+417 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || nessus,23521 || cve,1996-3574 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+418 || BLACKLIST User-Agent known malicious user agent - spam_bot || osvdb,23973 || cve,1995-3580 || url,en.wikipedia.org/wiki/Microsoft_access
+419 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || bugtraq,11518 || cve,2008-1336 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+420 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || osvdb,14003 || cve,2005-389 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+421 || SERVER-MAIL Sendmail 5.5.5 exploit || nessus,19449 || cve,2012-1166 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+422 || FILE-IMAGE JPEG parser multipacket heap overflow || url,36787 || cve,2011-1962 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+423 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || bugtraq,27215 || cve,2012-1328 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+424 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || osvdb,9889 || cve,1995-2581 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+425 || FILE-OTHER Oracle Java font rendering remote code execution attempt || nessus,30900 || cve,1996-2615 || url,labs.snort.org/docs/18370.html
+426 || SERVER-IIS cmd.exe access || nessus,16447 || cve,2009-3653 || url,en.wikipedia.org/wiki/MIME
+427 || SERVER-OTHER LPD dvips remote command execution attempt || cve,25290 || cve,1996-216 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+428 || FILE-IMAGE JPEG parser multipacket heap overflow || cve,10911 || cve,2007-1732 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+429 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || msb,15305 || cve,2013-3595 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+430 || FILE-OTHER Oracle Java font rendering remote code execution attempt || msb,27188 || cve,2003-2356 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+431 || APP-DETECT Absolute Software Computrace outbound connection || url,26453 || cve,2012-1354 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+432 || INDICATOR-SHELLCODE sparc NOOP || bugtraq,22226 || cve,2012-1606 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+433 || BLACKLIST User-Agent known malicious user agent - spam_bot || osvdb,18205 || cve,2002-3271 || url,technet.microsoft.com/en-us/security/advisory/953839
+434 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || mcafee,19138 || cve,2000-3008 || url,en.wikipedia.org/wiki/Microsoft_access
+435 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,14828 || cve,2002-1186 || url,www.spywareguide.com/product_show.php?id=651
+436 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || nessus,12927 || cve,2010-649 || url,www.2-seek.com/toolbar.php
+437 || SCADA Schneider Electric IGSS integer underflow attempt || osvdb,21336 || cve,1995-1419 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+438 || SERVER-WEBAPP carbo.dll access || bugtraq,19297 || cve,2012-797 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+439 || APP-DETECT Absolute Software Computrace outbound connection || nessus,4726 || cve,1995-1173 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+440 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || bugtraq,22723 || cve,2003-1097 || url,www.isi.edu/in-notes/rfc1122.txt
+441 || NETBIOS NS lookup short response attempt || mcafee,27450 || cve,2011-2397 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+442 || SCADA Schneider Electric IGSS integer underflow attempt || msb,38947 || cve,2002-357 || url,en.wikipedia.org/wiki/.ram
+443 || MALWARE-BACKDOOR - Dagger_1.4.0 || url,12645 || cve,1999-2234 || url,www.spywareguide.com/product_show.php?id=651
+444 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || bugtraq,34299 || cve,2003-2404 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+445 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || arachnids,19031 || cve,2004-2992 || url,www.isi.edu/in-notes/rfc1122.txt
+446 || SERVER-MAIL VRFY overflow attempt || cve,19768 || cve,1997-2795 || url,en.wikipedia.org/wiki/.ram
+447 || PROTOCOL-ICMP Mobile Registration Reply || bugtraq,28726 || cve,2013-809 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+448 || SERVER-WEBAPP carbo.dll access || nessus,34453 || cve,1995-403 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+449 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || msb,29977 || cve,2000-3077 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+450 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,8960 || cve,2009-3644 || url,en.wikipedia.org/wiki/.ram
+451 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || cve,29054 || cve,2010-3100 || url,en.wikipedia.org/wiki/Microsoft_access
+452 || BLACKLIST DNS request for known malware domain || msb,1927 || cve,1995-2591 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+453 || FILE-OTHER Oracle Java font rendering remote code execution attempt || bugtraq,35330 || cve,2005-2968 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+454 || SERVER-MAIL VRFY overflow attempt || arachnids,33375 || cve,2002-3546 || url,technet.microsoft.com/en-us/security/advisory/953839
+455 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || arachnids,19122 || cve,2007-2654 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+456 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || url,1793 || cve,2006-1854 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+457 || SERVER-OTHER LPD dvips remote command execution attempt || mcafee,25519 || cve,1999-3421 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+458 || BLACKLIST DNS request for known malware domain || bugtraq,8735 || cve,1997-1838 || url,www.spywareguide.com/product_show.php?id=651
+459 || INDICATOR-SHELLCODE sparc NOOP || osvdb,6617 || cve,2001-3114 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+460 || SCADA Schneider Electric IGSS integer underflow attempt || cve,11681 || cve,2013-1536 || url,www.isi.edu/in-notes/rfc1122.txt
+461 || FILE-IMAGE JPEG parser multipacket heap overflow || mcafee,29108 || cve,2001-2262 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+462 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || cve,12689 || cve,2008-1270 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+463 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || nessus,8910 || cve,2012-1284 || url,www.isi.edu/in-notes/rfc1122.txt
+464 || INDICATOR-SHELLCODE sparc NOOP || cve,18650 || cve,1997-282 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+465 || FILE-OTHER Oracle Java font rendering remote code execution attempt || msb,38673 || cve,2003-2510 || url,en.wikipedia.org/wiki/.ram
+466 || SERVER-IIS bdir access || nessus,5679 || cve,1998-3079 || url,en.wikipedia.org/wiki/Microsoft_access
+467 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || url,4090 || cve,2010-3660 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+468 || SERVER-WEBAPP carbo.dll access || arachnids,30834 || cve,2002-3506 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+469 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || url,12314 || cve,1995-304 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+470 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || cve,9172 || cve,2009-3876 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+471 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || msb,5118 || cve,2005-3914 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+472 || NETBIOS NS lookup short response attempt || bugtraq,29330 || cve,2003-2289 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+473 || SERVER-MAIL VRFY overflow attempt || mcafee,24413 || cve,2011-1189 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+474 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || bugtraq,27988 || cve,2009-2918 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+475 || NETBIOS NS lookup short response attempt || arachnids,17075 || cve,2004-2352 || url,www.spywareguide.com/product_show.php?id=651
+476 || SERVER-ORACLE EXECUTE_SYSTEM attempt || url,32060 || cve,2004-3098 || url,en.wikipedia.org/wiki/Microsoft_access
+477 || FILE-IMAGE JPEG parser multipacket heap overflow || osvdb,36655 || cve,2002-4000 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+478 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || mcafee,8350 || cve,2005-1137 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+479 || BLACKLIST DNS request for known malware domain || mcafee,36449 || cve,2008-3900 || url,www.spywareguide.com/product_show.php?id=651
+480 || MALWARE-BACKDOOR - Dagger_1.4.0 || osvdb,5984 || cve,2001-3170 || url,www.2-seek.com/toolbar.php
+481 || SERVER-MAIL Sendmail 5.5.5 exploit || cve,27231 || cve,2011-2724 || url,technet.microsoft.com/en-us/security/advisory/953839
+482 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || url,21206 || cve,1998-3633 || url,www.virustotal.com/file/
+483 || BLACKLIST DNS request for known malware domain || bugtraq,29523 || cve,2009-693 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+484 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || nessus,2092 || cve,1997-2159 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+485 || SERVER-MAIL Sendmail 5.5.5 exploit || msb,2902 || cve,2004-1409 || url,en.wikipedia.org/wiki/Microsoft_access
+486 || MALWARE-BACKDOOR - Dagger_1.4.0 || osvdb,33956 || cve,2002-2664 || url,www.virustotal.com/file/
+487 || SERVER-WEBAPP carbo.dll access || bugtraq,28702 || cve,2006-2089 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+488 || FILE-IMAGE JPEG parser multipacket heap overflow || mcafee,12319 || cve,1996-2449 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+489 || SERVER-IIS bdir access || osvdb,15078 || cve,2006-2601 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+490 || APP-DETECT Absolute Software Computrace outbound connection || osvdb,15198 || cve,1996-922 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+491 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || mcafee,17478 || cve,2013-3800 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+492 || NETBIOS NS lookup short response attempt || msb,30211 || cve,2012-1840 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+493 || SERVER-ORACLE EXECUTE_SYSTEM attempt || url,8010 || cve,2011-854 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+494 || MALWARE-BACKDOOR - Dagger_1.4.0 || cve,30910 || cve,2007-3014 || url,en.wikipedia.org/wiki/MIME
+495 || SERVER-IIS bdir access || mcafee,22158 || cve,1996-2243 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+496 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || nessus,39078 || cve,1999-235 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+497 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || arachnids,16670 || cve,2005-1211 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+498 || SERVER-MAIL VRFY overflow attempt || nessus,771 || cve,2013-3930 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+499 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || nessus,8684 || cve,1997-3507 || url,www.isi.edu/in-notes/rfc1122.txt
+500 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || nessus,10844 || cve,2007-3264 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+501 || FILE-IMAGE JPEG parser multipacket heap overflow || osvdb,30962 || cve,2002-719 || url,www.spywareguide.com/product_show.php?id=651
+502 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || mcafee,4606 || cve,2002-1290 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+503 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || bugtraq,14714 || cve,2007-2046 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+504 || SERVER-MAIL Sendmail 5.5.5 exploit || arachnids,16053 || cve,1995-559 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+505 || PROTOCOL-ICMP Mobile Registration Reply || bugtraq,35384 || cve,2002-2233 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+506 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || bugtraq,24024 || cve,2001-542 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+507 || SCADA Schneider Electric IGSS integer underflow attempt || url,7083 || cve,1998-3199 || url,www.2-seek.com/toolbar.php
+508 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || cve,9523 || cve,2001-2031 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+509 || DELETED FILE-IDENTIFY MIME file type file download request || nessus,21605 || cve,1995-3087 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+510 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || arachnids,1206 || cve,2010-1479 || url,www.spywareguide.com/product_show.php?id=651
+511 || NETBIOS NS lookup short response attempt || nessus,26227 || cve,2008-2399 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+512 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || mcafee,29878 || cve,2008-2577 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+513 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || mcafee,39954 || cve,2003-2147 || url,www.spywareguide.com/product_show.php?id=651
+514 || BLACKLIST DNS request for known malware domain || url,8987 || cve,2000-751 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+515 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || cve,929 || cve,2005-2005 || url,www.2-seek.com/toolbar.php
+516 || PROTOCOL-ICMP Mobile Registration Reply || nessus,18557 || cve,2001-1354 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+517 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || msb,10038 || cve,2006-808 || url,technet.microsoft.com/en-us/security/advisory/911052
+518 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || bugtraq,1297 || cve,2013-1280 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+519 || INDICATOR-SHELLCODE sparc NOOP || arachnids,24232 || cve,2009-3970 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+520 || SERVER-WEBAPP carbo.dll access || cve,7616 || cve,2001-1337 || url,www.spywareguide.com/product_show.php?id=651
+521 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || osvdb,14610 || cve,2012-1484 || url,technet.microsoft.com/en-us/security/advisory/953839
+522 || SERVER-ORACLE EXECUTE_SYSTEM attempt || cve,14942 || cve,1998-2370 || url,www.spywareguide.com/product_show.php?id=651
+523 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || mcafee,33707 || cve,2007-769 || url,www.spywareguide.com/product_show.php?id=651
+524 || SERVER-ORACLE EXECUTE_SYSTEM attempt || url,29266 || cve,2008-1762 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+525 || DELETED FILE-IDENTIFY MIME file type file download request || cve,4991 || cve,1996-591 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+526 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || bugtraq,6269 || cve,1997-2116 || url,en.wikipedia.org/wiki/MIME
+527 || SERVER-IIS bdir access || nessus,11393 || cve,1995-2838 || url,en.wikipedia.org/wiki/.ram
+528 || SERVER-IIS cmd.exe access || nessus,20742 || cve,2000-3633 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+529 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || nessus,36891 || cve,2000-1820 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+530 || PROTOCOL-ICMP Mobile Registration Reply || url,3147 || cve,2007-732 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+531 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || nessus,23451 || cve,2004-1684 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+532 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || cve,8464 || cve,2005-1256 || url,en.wikipedia.org/wiki/Microsoft_access
+533 || SERVER-WEBAPP carbo.dll access || mcafee,26713 || cve,1998-1184 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+534 || DELETED FILE-IDENTIFY MIME file type file download request || mcafee,25696 || cve,2005-747 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+535 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || cve,5530 || cve,2008-979 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+536 || BLACKLIST DNS request for known malware domain || arachnids,15557 || cve,2009-2023 || url,www.2-seek.com/toolbar.php
+537 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || arachnids,2424 || cve,2010-2579 || url,en.wikipedia.org/wiki/Microsoft_access
+538 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || mcafee,5242 || cve,2011-3825 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+539 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,13997 || cve,2002-2469 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+540 || BLACKLIST User-Agent known malicious user agent - spam_bot || mcafee,31090 || cve,2001-3203 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+541 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || msb,23817 || cve,1998-778 || url,www.spywareguide.com/product_show.php?id=651
+542 || NETBIOS NS lookup short response attempt || nessus,22265 || cve,1998-1354 || url,technet.microsoft.com/en-us/security/advisory/911052
+543 || SCADA Schneider Electric IGSS integer underflow attempt || bugtraq,1645 || cve,2006-2007 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+544 || DELETED FILE-IDENTIFY MIME file type file download request || mcafee,21696 || cve,1998-3278 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+545 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || bugtraq,21070 || cve,1999-637 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+546 || NETBIOS NS lookup short response attempt || mcafee,22161 || cve,2006-2227 || url,www.f-secure.com/weblog/archives/00002227.html
+547 || SCADA Schneider Electric IGSS integer underflow attempt || mcafee,1191 || cve,2010-1739 || url,en.wikipedia.org/wiki/Microsoft_access
+548 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || osvdb,4432 || cve,2001-790 || url,www.f-secure.com/weblog/archives/00002227.html
+549 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || mcafee,9655 || cve,2009-891 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+550 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || msb,17384 || cve,1999-3464 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+551 || FILE-IMAGE JPEG parser multipacket heap overflow || arachnids,34183 || cve,2005-559 || url,www.spywareguide.com/product_show.php?id=651
+552 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || bugtraq,26226 || cve,2000-3710 || url,labs.snort.org/docs/18370.html
+553 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || msb,9344 || cve,1999-3675 || url,technet.microsoft.com/en-us/security/advisory/911052
+554 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || cve,31599 || cve,2012-1895 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+555 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || mcafee,27609 || cve,2007-973 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+556 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || bugtraq,13752 || cve,2001-1362 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+557 || APP-DETECT Absolute Software Computrace outbound connection || url,3906 || cve,1998-2277 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+558 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || url,27342 || cve,2001-696 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+559 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || osvdb,6912 || cve,2002-2573 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+560 || SERVER-WEBAPP carbo.dll access || cve,33335 || cve,2005-423 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+561 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || nessus,25798 || cve,2010-3499 || url,www.f-secure.com/weblog/archives/00002227.html
+562 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || msb,9442 || cve,2001-2757 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+563 || BLACKLIST User-Agent known malicious user agent - spam_bot || url,17231 || cve,1995-2559 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+564 || SERVER-ORACLE EXECUTE_SYSTEM attempt || nessus,2980 || cve,2004-3839 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+565 || PROTOCOL-ICMP Mobile Registration Reply || nessus,30165 || cve,2000-3308 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+566 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || mcafee,13995 || cve,2006-560 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+567 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || url,20516 || cve,1996-1869 || url,en.wikipedia.org/wiki/MIME
+568 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || msb,36180 || cve,2006-1258 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+569 || BLACKLIST DNS request for known malware domain || cve,22784 || cve,1996-1319 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+570 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || msb,17782 || cve,2003-1651 || url,labs.snort.org/docs/18370.html
+571 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || msb,16204 || cve,2006-1880 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+572 || SERVER-IIS cmd.exe access || mcafee,35737 || cve,2008-3079 || url,www.f-secure.com/weblog/archives/00002227.html
+573 || SERVER-MAIL VRFY overflow attempt || nessus,19920 || cve,1995-443 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+574 || SCADA Schneider Electric IGSS integer underflow attempt || mcafee,11300 || cve,1998-3307 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+575 || NETBIOS NS lookup short response attempt || arachnids,13124 || cve,2002-1246 || url,en.wikipedia.org/wiki/.ram
+576 || BLACKLIST User-Agent known malicious user agent - spam_bot || arachnids,26199 || cve,2013-2568 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+577 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || mcafee,24768 || cve,2008-2567 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+578 || SERVER-MAIL VRFY overflow attempt || osvdb,1253 || cve,2005-3926 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+579 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || osvdb,13147 || cve,1998-473 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+580 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || osvdb,3116 || cve,2005-714 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+581 || SERVER-MAIL Sendmail 5.5.5 exploit || osvdb,38587 || cve,1995-1135 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+582 || SERVER-MAIL Sendmail 5.5.5 exploit || bugtraq,24847 || cve,2010-258 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+583 || SERVER-MAIL VRFY overflow attempt || url,12871 || cve,2000-2777 || url,en.wikipedia.org/wiki/Microsoft_access
+584 || PROTOCOL-ICMP Mobile Registration Reply || arachnids,1533 || cve,1998-3137 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+585 || APP-DETECT Absolute Software Computrace outbound connection || cve,6772 || cve,2004-2563 || url,labs.snort.org/docs/18370.html
+586 || FILE-IMAGE JPEG parser multipacket heap overflow || url,35091 || cve,1999-2413 || url,en.wikipedia.org/wiki/MIME
+587 || DELETED FILE-IDENTIFY MIME file type file download request || bugtraq,14183 || cve,2005-1004 || url,labs.snort.org/docs/18370.html
+588 || SERVER-MAIL VRFY overflow attempt || mcafee,18814 || cve,2001-1476 || url,en.wikipedia.org/wiki/Microsoft_access
+589 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || osvdb,12153 || cve,2000-2252 || url,labs.snort.org/docs/18370.html
+590 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || osvdb,1719 || cve,2006-756 || url,www.spywareguide.com/product_show.php?id=651
+591 || DELETED FILE-IDENTIFY MIME file type file download request || osvdb,11837 || cve,2004-1355 || url,technet.microsoft.com/en-us/security/advisory/953839
+592 || FILE-IMAGE JPEG parser multipacket heap overflow || bugtraq,7261 || cve,1999-3829 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+593 || DELETED FILE-IDENTIFY MIME file type file download request || url,7269 || cve,2001-2228 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+594 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || arachnids,26332 || cve,1998-823 || url,www.f-secure.com/weblog/archives/00002227.html
+595 || SERVER-WEBAPP carbo.dll access || bugtraq,39950 || cve,2009-848 || url,www.2-seek.com/toolbar.php
+596 || INDICATOR-SHELLCODE sparc NOOP || msb,23274 || cve,1996-2940 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+597 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || arachnids,15501 || cve,1999-3478 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+598 || SERVER-IIS bdir access || msb,25278 || cve,2000-1657 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+599 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || url,31082 || cve,2011-339 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+600 || BLACKLIST User-Agent known malicious user agent - spam_bot || msb,16568 || cve,2000-2402 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+601 || BLACKLIST User-Agent known malicious user agent - spam_bot || url,31875 || cve,2009-481 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+602 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || url,3548 || cve,2009-2893 || url,www.f-secure.com/weblog/archives/00002227.html
+603 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || bugtraq,27965 || cve,2000-3680 || url,en.wikipedia.org/wiki/MIME
+604 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || bugtraq,1055 || cve,2006-3944 || url,en.wikipedia.org/wiki/Microsoft_access
+605 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || mcafee,37054 || cve,2012-2872 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+606 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || url,31173 || cve,1998-3352 || url,labs.snort.org/docs/18370.html
+607 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,9507 || cve,2012-1362 || url,www.2-seek.com/toolbar.php
+608 || FILE-IMAGE JPEG parser multipacket heap overflow || url,36544 || cve,2008-342 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+609 || SERVER-MAIL VRFY overflow attempt || bugtraq,34383 || cve,2009-3173 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+610 || PROTOCOL-ICMP Mobile Registration Reply || msb,35514 || cve,2010-3331 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+611 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || mcafee,11827 || cve,2002-1955 || url,en.wikipedia.org/wiki/MIME
+612 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || mcafee,2438 || cve,2009-3132 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+613 || SCADA Schneider Electric IGSS integer underflow attempt || url,5702 || cve,1998-2384 || url,www.virustotal.com/file/
+614 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || msb,39819 || cve,2011-603 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+615 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || cve,15347 || cve,2004-3088 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+616 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || mcafee,623 || cve,1995-778 || url,www.2-seek.com/toolbar.php
+617 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || arachnids,17696 || cve,2004-2895 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+618 || BLACKLIST User-Agent known malicious user agent - spam_bot || osvdb,9438 || cve,2011-2220 || url,www.2-seek.com/toolbar.php
+619 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || osvdb,4034 || cve,1996-3636 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+620 || SERVER-IIS bdir access || mcafee,26947 || cve,2004-3446 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+621 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || mcafee,23133 || cve,2008-1215 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+622 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || msb,17545 || cve,2013-1719 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+623 || BLACKLIST DNS request for known malware domain || mcafee,22507 || cve,1996-3114 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+624 || SERVER-IIS bdir access || url,17910 || cve,1999-1077 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+625 || SERVER-OTHER LPD dvips remote command execution attempt || mcafee,21803 || cve,1995-963 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+626 || SERVER-IIS bdir access || arachnids,6281 || cve,2001-1731 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+627 || SCADA Schneider Electric IGSS integer underflow attempt || osvdb,9617 || cve,2012-2415 || url,en.wikipedia.org/wiki/.ram
+628 || NETBIOS NS lookup short response attempt || nessus,24008 || cve,2004-1414 || url,technet.microsoft.com/en-us/security/advisory/911052
+629 || DELETED FILE-IDENTIFY MIME file type file download request || osvdb,33899 || cve,2004-324 || url,www.2-seek.com/toolbar.php
+630 || FILE-IMAGE JPEG parser multipacket heap overflow || url,27760 || cve,1997-1408 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+631 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || nessus,153 || cve,2002-2688 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+632 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || nessus,5055 || cve,1996-1397 || url,www.f-secure.com/weblog/archives/00002227.html
+633 || APP-DETECT Absolute Software Computrace outbound connection || arachnids,15543 || cve,2010-1134 || url,en.wikipedia.org/wiki/Microsoft_access
+634 || INDICATOR-SHELLCODE sparc NOOP || arachnids,13237 || cve,2010-3904 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+635 || SERVER-MAIL VRFY overflow attempt || url,34928 || cve,2007-2218 || url,www.isi.edu/in-notes/rfc1122.txt
+636 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || bugtraq,24712 || cve,1999-1962 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+637 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || osvdb,28890 || cve,2009-1492 || url,technet.microsoft.com/en-us/security/advisory/911052
+638 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || mcafee,22662 || cve,1995-1539 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+639 || FILE-OTHER Oracle Java font rendering remote code execution attempt || arachnids,25933 || cve,2000-2930 || url,www.virustotal.com/file/
+640 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || osvdb,817 || cve,2005-2233 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+641 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || osvdb,233 || cve,1995-2432 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+642 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,24148 || cve,2002-3728 || url,labs.snort.org/docs/18370.html
+643 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || msb,35169 || cve,1996-3290 || url,www.spywareguide.com/product_show.php?id=651
+644 || SERVER-ORACLE EXECUTE_SYSTEM attempt || msb,21768 || cve,2001-526 || url,www.virustotal.com/file/
+645 || SERVER-IIS bdir access || url,12214 || cve,2012-3663 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+646 || SERVER-MAIL Sendmail 5.5.5 exploit || bugtraq,6493 || cve,1999-2478 || url,en.wikipedia.org/wiki/Microsoft_access
+647 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || url,34205 || cve,2012-3258 || url,www.isi.edu/in-notes/rfc1122.txt
+648 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || nessus,30621 || cve,1998-1981 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+649 || FILE-OTHER Oracle Java font rendering remote code execution attempt || osvdb,664 || cve,1996-2495 || url,www.2-seek.com/toolbar.php
+650 || DELETED FILE-IDENTIFY MIME file type file download request || bugtraq,37570 || cve,2010-269 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+651 || SERVER-IIS cmd.exe access || bugtraq,1500 || cve,2001-700 || url,www.f-secure.com/weblog/archives/00002227.html
+652 || APP-DETECT Absolute Software Computrace outbound connection || arachnids,22472 || cve,2001-274 || url,www.f-secure.com/weblog/archives/00002227.html
+653 || SERVER-IIS cmd.exe access || mcafee,22569 || cve,2008-3546 || url,en.wikipedia.org/wiki/.ram
+654 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || url,36388 || cve,2013-2606 || url,labs.snort.org/docs/18370.html
+655 || FILE-OTHER Oracle Java font rendering remote code execution attempt || msb,15260 || cve,1997-1648 || url,en.wikipedia.org/wiki/Microsoft_access
+656 || INDICATOR-SHELLCODE sparc NOOP || msb,5066 || cve,2012-1223 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+657 || SCADA Schneider Electric IGSS integer underflow attempt || osvdb,20049 || cve,1995-3991 || url,technet.microsoft.com/en-us/security/advisory/953839
+658 || SERVER-IIS bdir access || mcafee,3517 || cve,1996-830 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+659 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || cve,432 || cve,2007-2088 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+660 || BLACKLIST DNS request for known malware domain || bugtraq,22291 || cve,2012-3057 || url,www.spywareguide.com/product_show.php?id=651
+661 || FILE-IMAGE JPEG parser multipacket heap overflow || mcafee,4082 || cve,1997-1983 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+662 || INDICATOR-SHELLCODE sparc NOOP || mcafee,988 || cve,1997-1789 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+663 || SERVER-OTHER LPD dvips remote command execution attempt || cve,25861 || cve,1995-1584 || url,www.2-seek.com/toolbar.php
+664 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || cve,4020 || cve,2003-2697 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+665 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || arachnids,35472 || cve,1997-3313 || url,www.spywareguide.com/product_show.php?id=651
+666 || BLACKLIST User-Agent known malicious user agent - spam_bot || arachnids,20215 || cve,2008-3056 || url,labs.snort.org/docs/18370.html
+667 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || osvdb,29999 || cve,2007-3095 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+668 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || arachnids,34667 || cve,1995-436 || url,en.wikipedia.org/wiki/Microsoft_access
+669 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || mcafee,5821 || cve,2013-3059 || url,labs.snort.org/docs/18370.html
+670 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || url,10149 || cve,2005-1302 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+671 || SERVER-IIS cmd.exe access || arachnids,27199 || cve,2003-292 || url,en.wikipedia.org/wiki/Microsoft_access
+672 || PROTOCOL-ICMP Mobile Registration Reply || url,26268 || cve,1996-2163 || url,technet.microsoft.com/en-us/security/advisory/953839
+673 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,38686 || cve,2011-1984 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+674 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || cve,21324 || cve,2013-731 || url,www.isi.edu/in-notes/rfc1122.txt
+675 || SERVER-ORACLE EXECUTE_SYSTEM attempt || cve,38684 || cve,2011-1342 || url,technet.microsoft.com/en-us/security/advisory/953839
+676 || BLACKLIST User-Agent known malicious user agent - spam_bot || nessus,22137 || cve,2003-1668 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+677 || SERVER-ORACLE EXECUTE_SYSTEM attempt || cve,37667 || cve,2005-3198 || url,www.isi.edu/in-notes/rfc1122.txt
+678 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || cve,20442 || cve,1998-2001 || url,labs.snort.org/docs/18370.html
+679 || DELETED FILE-IDENTIFY MIME file type file download request || url,18532 || cve,2011-2468 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+680 || SERVER-MAIL Sendmail 5.5.5 exploit || msb,11071 || cve,2009-3606 || url,en.wikipedia.org/wiki/.ram
+681 || MALWARE-BACKDOOR - Dagger_1.4.0 || url,16470 || cve,2003-3027 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+682 || BLACKLIST DNS request for known malware domain || url,16886 || cve,1995-3915 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+683 || SERVER-IIS cmd.exe access || url,39213 || cve,2012-2743 || url,en.wikipedia.org/wiki/.ram
+684 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || bugtraq,29784 || cve,2000-1796 || url,www.spywareguide.com/product_show.php?id=651
+685 || PROTOCOL-ICMP Mobile Registration Reply || cve,1596 || cve,2009-1193 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+686 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || cve,17873 || cve,2009-551 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+687 || PROTOCOL-ICMP Mobile Registration Reply || mcafee,7577 || cve,2006-1044 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+688 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || cve,12319 || cve,2001-3773 || url,www.2-seek.com/toolbar.php
+689 || SERVER-MAIL Sendmail 5.5.5 exploit || cve,15153 || cve,1995-1554 || url,technet.microsoft.com/en-us/security/advisory/911052
+690 || SERVER-IIS cmd.exe access || url,17280 || cve,2004-1034 || url,www.isi.edu/in-notes/rfc1122.txt
+691 || APP-DETECT Absolute Software Computrace outbound connection || nessus,17875 || cve,2003-2429 || url,technet.microsoft.com/en-us/security/advisory/911052
+692 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || arachnids,3606 || cve,1999-1625 || url,www.virustotal.com/file/
+693 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || cve,18401 || cve,2005-542 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+694 || NETBIOS NS lookup short response attempt || url,37641 || cve,2009-382 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+695 || SERVER-WEBAPP carbo.dll access || mcafee,9938 || cve,2007-1950 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+696 || PROTOCOL-ICMP Mobile Registration Reply || osvdb,16961 || cve,2009-969 || url,www.2-seek.com/toolbar.php
+697 || SERVER-MAIL Sendmail 5.5.5 exploit || cve,38758 || cve,2012-557 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+698 || FILE-IMAGE JPEG parser multipacket heap overflow || nessus,39882 || cve,2000-3521 || url,www.isi.edu/in-notes/rfc1122.txt
+699 || SERVER-IIS cmd.exe access || url,22529 || cve,1998-2297 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+700 || SERVER-ORACLE EXECUTE_SYSTEM attempt || arachnids,39047 || cve,2001-610 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+701 || SERVER-WEBAPP carbo.dll access || url,1274 || cve,2002-1468 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+702 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || bugtraq,35201 || cve,2001-2030 || url,en.wikipedia.org/wiki/Microsoft_access
+703 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || cve,3595 || cve,2009-748 || url,technet.microsoft.com/en-us/security/advisory/911052
+704 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || url,32809 || cve,2001-3914 || url,www.isi.edu/in-notes/rfc1122.txt
+705 || APP-DETECT Absolute Software Computrace outbound connection || osvdb,6424 || cve,2001-2533 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+706 || SERVER-IIS cmd.exe access || nessus,38653 || cve,2009-1855 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+707 || MALWARE-BACKDOOR - Dagger_1.4.0 || msb,4942 || cve,2010-1030 || url,en.wikipedia.org/wiki/MIME
+708 || SERVER-WEBAPP carbo.dll access || url,2163 || cve,1995-2577 || url,en.wikipedia.org/wiki/.ram
+709 || SERVER-OTHER LPD dvips remote command execution attempt || nessus,30237 || cve,2007-1417 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+710 || SERVER-WEBAPP carbo.dll access || mcafee,12043 || cve,1997-377 || url,www.2-seek.com/toolbar.php
+711 || SERVER-IIS bdir access || cve,10538 || cve,1995-288 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+712 || SERVER-IIS cmd.exe access || cve,18045 || cve,2013-931 || url,www.virustotal.com/file/
+713 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || cve,2534 || cve,2011-1399 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+714 || SERVER-IIS cmd.exe access || nessus,11903 || cve,2001-2302 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+715 || SCADA Schneider Electric IGSS integer underflow attempt || mcafee,30050 || cve,1995-1154 || url,www.isi.edu/in-notes/rfc1122.txt
+716 || APP-DETECT Absolute Software Computrace outbound connection || arachnids,8355 || cve,2011-2296 || url,en.wikipedia.org/wiki/.ram
+717 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || cve,1335 || cve,2012-1188 || url,technet.microsoft.com/en-us/security/advisory/953839
+718 || PROTOCOL-ICMP Mobile Registration Reply || osvdb,4572 || cve,1999-3724 || url,www.isi.edu/in-notes/rfc1122.txt
+719 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || mcafee,39740 || cve,2002-3226 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+720 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || nessus,32636 || cve,2005-1043 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+721 || NETBIOS NS lookup short response attempt || cve,37758 || cve,2006-1674 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+722 || SERVER-IIS bdir access || url,33143 || cve,2010-2810 || url,www.isi.edu/in-notes/rfc1122.txt
+723 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || cve,18527 || cve,2005-3962 || url,labs.snort.org/docs/18370.html
+724 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || msb,34077 || cve,1998-2256 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+725 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || bugtraq,7128 || cve,2000-2453 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+726 || FILE-OTHER Oracle Java font rendering remote code execution attempt || url,20049 || cve,2013-3616 || url,www.virustotal.com/file/
+727 || FILE-IMAGE JPEG parser multipacket heap overflow || arachnids,32344 || cve,2013-916 || url,technet.microsoft.com/en-us/security/advisory/953839
+728 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || bugtraq,14229 || cve,2012-363 || url,www.2-seek.com/toolbar.php
+729 || SERVER-MAIL Sendmail 5.5.5 exploit || osvdb,19059 || cve,1997-1190 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+730 || INDICATOR-SHELLCODE sparc NOOP || cve,26244 || cve,1995-1670 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+731 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || mcafee,23802 || cve,1995-3178 || url,en.wikipedia.org/wiki/MIME
+732 || FILE-IMAGE JPEG parser multipacket heap overflow || msb,11040 || cve,2008-671 || url,www.isi.edu/in-notes/rfc1122.txt
+733 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || cve,32494 || cve,2010-1788 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+734 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || msb,37796 || cve,2008-1324 || url,www.virustotal.com/file/
+735 || APP-DETECT Absolute Software Computrace outbound connection || cve,33510 || cve,2008-2450 || url,technet.microsoft.com/en-us/security/advisory/953839
+736 || APP-DETECT Absolute Software Computrace outbound connection || nessus,33175 || cve,1997-645 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+737 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || msb,20657 || cve,2006-1567 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+738 || PROTOCOL-ICMP Mobile Registration Reply || bugtraq,23296 || cve,1998-2068 || url,www.isi.edu/in-notes/rfc1122.txt
+739 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || cve,19759 || cve,1996-2725 || url,www.virustotal.com/file/
+740 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || nessus,14798 || cve,2008-697 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+741 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || msb,33457 || cve,2009-3491 || url,technet.microsoft.com/en-us/security/advisory/953839
+742 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || arachnids,23669 || cve,2000-1398 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+743 || APP-DETECT Absolute Software Computrace outbound connection || osvdb,15250 || cve,2007-992 || url,www.isi.edu/in-notes/rfc1122.txt
+744 || NETBIOS NS lookup short response attempt || msb,39271 || cve,2000-1126 || url,en.wikipedia.org/wiki/MIME
+745 || FILE-IMAGE JPEG parser multipacket heap overflow || url,21435 || cve,2003-875 || url,www.isi.edu/in-notes/rfc1122.txt
+746 || BLACKLIST DNS request for known malware domain || nessus,24050 || cve,1999-1168 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+747 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || bugtraq,28208 || cve,2001-1272 || url,www.2-seek.com/toolbar.php
+748 || NETBIOS NS lookup short response attempt || cve,1252 || cve,2001-541 || url,technet.microsoft.com/en-us/security/advisory/953839
+749 || PROTOCOL-ICMP Mobile Registration Reply || mcafee,3310 || cve,2011-801 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+750 || MALWARE-BACKDOOR - Dagger_1.4.0 || osvdb,15078 || cve,2003-1894 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+751 || NETBIOS NS lookup short response attempt || msb,14219 || cve,2003-2918 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+752 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || url,15020 || cve,1995-681 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+753 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || url,16989 || cve,2001-3189 || url,www.virustotal.com/file/
+754 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || nessus,30371 || cve,1995-2966 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+755 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || osvdb,10576 || cve,2008-3272 || url,www.isi.edu/in-notes/rfc1122.txt
+756 || BLACKLIST DNS request for known malware domain || nessus,4453 || cve,1999-1191 || url,en.wikipedia.org/wiki/.ram
+757 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || osvdb,23369 || cve,1996-1643 || url,www.spywareguide.com/product_show.php?id=651
+758 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || url,24704 || cve,2013-3822 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+759 || SCADA Schneider Electric IGSS integer underflow attempt || osvdb,28948 || cve,1999-221 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+760 || SERVER-WEBAPP carbo.dll access || msb,9461 || cve,2001-782 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+761 || DELETED FILE-IDENTIFY MIME file type file download request || url,33620 || cve,2013-992 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+762 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || nessus,1050 || cve,2004-3302 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+763 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || msb,32386 || cve,2008-618 || url,www.isi.edu/in-notes/rfc1122.txt
+764 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || url,29954 || cve,2009-3045 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+765 || SERVER-OTHER LPD dvips remote command execution attempt || cve,8483 || cve,2002-2187 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+766 || PROTOCOL-ICMP Mobile Registration Reply || cve,1989 || cve,2010-2451 || url,en.wikipedia.org/wiki/.ram
+767 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || arachnids,18573 || cve,2009-570 || url,www.isi.edu/in-notes/rfc1122.txt
+768 || SERVER-IIS bdir access || bugtraq,28697 || cve,2008-2536 || url,www.2-seek.com/toolbar.php
+769 || FILE-IMAGE JPEG parser multipacket heap overflow || url,27078 || cve,2003-952 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+770 || FILE-OFFICE Microsoft Office Excel style handling overflow attempt  || bugtraq,20317 || cve,2009-3890 || url,technet.microsoft.com/en-us/security/bulletin/ms03-039
+771 || INDICATOR-SHELLCODE Oracle sparc setuid 0 || osvdb,15930 || cve,2004-2083 || url,www.virustotal.com/file/
+772 || SERVER-MAIL Sendmail 5.5.5 exploit || msb,5673 || cve,2007-2973 || url,www.f-secure.com/weblog/archives/00002227.html
+773 || PROTOCOL-ICMP Mobile Registration Reply || arachnids,18809 || cve,1999-1146 || url,www.virustotal.com/file/
+774 || SERVER-MAIL VRFY overflow attempt || msb,13767 || cve,2003-2989 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+775 || BLACKLIST DNS request for known malware domain || cve,9247 || cve,2003-3515 || url,www.isi.edu/in-notes/rfc1122.txt
+776 || MALWARE-BACKDOOR - Dagger_1.4.0 || arachnids,24027 || cve,2004-3123 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+777 || SERVER-MAIL Sendmail 5.5.5 exploit || mcafee,22320 || cve,2001-3158 || url,www.2-seek.com/toolbar.php
+778 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || osvdb,18349 || cve,2008-3563 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+779 || SERVER-WEBAPP PhpGedView PGV functions.php base directory manipulation attempt || nessus,11861 || cve,2010-3639 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+780 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || osvdb,29712 || cve,2001-3971 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+781 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || url,10954 || cve,2009-416 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+782 || APP-DETECT Absolute Software Computrace outbound connection || osvdb,4151 || cve,2001-1480 || url,labs.snort.org/docs/18370.html
+783 || SERVER-OTHER LPD dvips remote command execution attempt || mcafee,15177 || cve,1997-3902 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+784 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || mcafee,26620 || cve,2012-3309 || url,en.wikipedia.org/wiki/.ram
+785 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || osvdb,13432 || cve,1995-1021 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+786 || MALWARE-BACKDOOR - Dagger_1.4.0 || msb,21424 || cve,2006-3807 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+787 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || bugtraq,23866 || cve,1996-784 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+788 || FILE-OTHER Oracle Java font rendering remote code execution attempt || nessus,25604 || cve,1999-3957 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+789 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || bugtraq,8072 || cve,2008-2985 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+790 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || bugtraq,6719 || cve,2000-408 || url,en.wikipedia.org/wiki/MIME
+791 || BLACKLIST DNS request for known malware domain || msb,36622 || cve,2002-255 || url,en.wikipedia.org/wiki/Microsoft_access
+792 || NETBIOS NS lookup short response attempt || osvdb,33179 || cve,2012-2375 || url,www.eeye.com/html/Research/Advisories/AD20040226.html
+793 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || osvdb,34425 || cve,1998-3377 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453075851
+794 || INDICATOR-SHELLCODE sparc NOOP || osvdb,24878 || cve,1997-3785 || url,www.2-seek.com/toolbar.php
+795 || SERVER-ORACLE EXECUTE_SYSTEM attempt || url,2813 || cve,1996-1437 || url,technet.microsoft.com/en-us/security/advisory/953839
+796 || OS-WINDOWS SMB-DS DCERPC Messenger Service buffer overflow attempt || arachnids,38469 || cve,2003-816 || url,en.wikipedia.org/wiki/.ram
+797 || PROTOCOL-RPC sadmind query with root credentials attempt UDP || url,20797 || cve,2004-2968 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+798 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || arachnids,7651 || cve,2012-2175 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+799 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || arachnids,8269 || cve,2002-3599 || url,technet.microsoft.com/en-us/security/advisory/953839
+800 || FILE-IMAGE JPEG parser multipacket heap overflow || arachnids,5386 || cve,1999-2038 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+801 || INDICATOR-SHELLCODE sparc NOOP || nessus,27980 || cve,2005-2687 || url,www.f-secure.com/weblog/archives/00002227.html
+802 || PROTOCOL-ICMP Mobile Registration Reply || nessus,22141 || cve,1997-807 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+803 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || mcafee,5313 || cve,2007-3186 || url,www3.ca.com/securityadvisor/pest/pest.aspx?id=453090405
+804 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || url,16338 || cve,2012-1079 || url,labs.snort.org/docs/18370.html
+805 || MALWARE-BACKDOOR - Dagger_1.4.0 || url,16923 || cve,2011-377 || url,www.wiretrip.net/rfp/pages/whitepapers/whiskerids.html
+806 || SERVER-IIS cmd.exe access || mcafee,38628 || cve,2001-3712 || url,www.virustotal.com/file/
+807 || MALWARE-BACKDOOR - Dagger_1.4.0 || msb,16338 || cve,2007-1420 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+808 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || arachnids,31285 || cve,1995-3323 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+809 || SERVER-ORACLE dbms_offline_og.end_instantiation buffer overflow attempt || url,26437 || cve,2000-3504 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+810 || SERVER-MAIL VRFY overflow attempt || cve,3999 || cve,2003-650 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+811 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || nessus,32327 || cve,2007-2360 || url,www.virustotal.com/file-scan/report.html?id=7c6df3935657357ac8c8217872d19845bbd3321a1daf9165cdec6d72a0127dab-1225232595
+812 || SERVER-OTHER LPD dvips remote command execution attempt || cve,9926 || cve,2007-2010 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+813 || BLACKLIST DNS request for known malware domain || bugtraq,290 || cve,2013-1730 || url,en.wikipedia.org/wiki/PostScript_fonts#Compact_Font_Format
+814 || SERVER-MAIL Sendmail 5.5.5 exploit || mcafee,15338 || cve,2011-3282 || url,www.spywareguide.com/product_show.php?id=651
+815 || PROTOCOL-ICMP Mobile Registration Reply || nessus,39893 || cve,2008-2004 || url,technet.microsoft.com/en-us/security/advisory/911052
+816 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || bugtraq,19463 || cve,2008-1704 || url,www.2-seek.com/toolbar.php
+817 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || mcafee,8784 || cve,2011-3241 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+818 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || osvdb,10164 || cve,2005-1450 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+819 || MALWARE-BACKDOOR - Dagger_1.4.0 || msb,15229 || cve,2010-1180 || url,labs.snort.org/docs/18370.html
+820 || BLACKLIST DNS request for known malware domain || bugtraq,9252 || cve,2009-1580 || url,technet.microsoft.com/en-us/security/bulletin/ms05-047
+821 || SERVER-MAIL Sendmail 5.5.5 exploit || msb,15123 || cve,2000-224 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+822 || EXPLOIT-KIT DotCachef/DotCache exploit kit Zeroaccess download attempt || arachnids,39031 || cve,2009-3987 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+823 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || nessus,35334 || cve,2001-974 || url,technet.microsoft.com/en-us/security/advisory/953839
+824 || BLACKLIST User-Agent known malicious user agent - spam_bot || msb,2831 || cve,2009-1346 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+825 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || arachnids,37505 || cve,2005-267 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+826 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || url,30555 || cve,2004-3183 || url,www.virustotal.com/file/
+827 || SERVER-MAIL Sendmail 5.5.5 exploit || bugtraq,18211 || cve,2008-334 || url,technet.microsoft.com/en-us/security/advisory/953839
+828 || SERVER-OTHER ISAKMP first payload certificate request length overflow attempt || mcafee,16890 || cve,2009-988 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+829 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || arachnids,13573 || cve,2013-1985 || url,en.wikipedia.org/wiki/Microsoft_access
+830 || BLACKLIST User-Agent known malicious user agent - spam_bot || url,18175 || cve,2010-1684 || url,www.virustotal.com/file/
+831 || SERVER-OTHER Adobe Coldfusion db connections flush attempt || cve,25629 || cve,2006-1440 || url,technet.microsoft.com/en-us/security/bulletin/MS06-070
+832 || SERVER-MAIL Sendmail 5.5.5 exploit || arachnids,35473 || cve,2010-2225 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+833 || APP-DETECT Absolute Software Computrace outbound connection || url,38322 || cve,2009-1895 || url,technet.microsoft.com/en-us/security/bulletin/MS06-042
+834 || EXPLOIT-KIT Nuclear exploit kit Spoofed Host Header .com- requests || mcafee,1835 || cve,2001-551 || url,www.virustotal.com/file-scan/report.html?id=3089f01c9893116ac3ba54f6661020203e4c1ea72d04153af4a072253fcf9e68-1314531539
+835 || MALWARE-CNC DoomJuice/mydoom.a backdoor upload/execute || osvdb,33354 || cve,1998-3975 || url,technet.microsoft.com/en-us/security/advisory/911052
+836 || MALWARE-BACKDOOR - Dagger_1.4.0 || url,10560 || cve,1996-3347 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+837 || BLACKLIST DNS request for known malware domain || bugtraq,6408 || cve,2005-1848 || url,technet.microsoft.com/en-us/security/bulletin/MS09-021
+838 || NETBIOS NS lookup short response attempt || bugtraq,21895 || cve,2009-1432 || url,technet.microsoft.com/en-us/security/advisory/911052
+839 || MALWARE-CNC Daws Trojan Outbound Plaintext over SSL Port || nessus,34001 || cve,1997-1699 || url,technet.microsoft.com/en-us/security/bulletin/ms05-010
+840 || SERVER-OTHER LPD dvips remote command execution attempt || arachnids,11260 || cve,1998-763 || url,technet.microsoft.com/en-us/security/bulletin/ms00-040
+841 || OS-WINDOWS DCERPC Messenger Service buffer overflow attempt || url,33845 || cve,2004-2849 || url,msdn.microsoft.com/library/default.asp?url=/library/en-us/shutdown/base/initiatesystemshutdown.asp
+842 || APP-DETECT Absolute Software Computrace outbound connection || msb,32870 || cve,1995-1749 || url,asert.arbornetworks.com/2011/08/dirt-jumper-caught/
+843 || APP-DETECT Absolute Software Computrace outbound connection || bugtraq,20084 || cve,2009-3000 || url,en.wikipedia.org/wiki/.ram

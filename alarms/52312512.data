@@ -1,0 +1,5 @@
+[**] [1:87041:502] SQL sp_adduser database user creation [**]
+[**] [1:87041:502] SQL Ingres Database uuid_from_char buffer overflow attempt [**]
+[**] [1:573:68] Cross-site Scripting ATTACK Attempted (XSS) [**]
+[**] [1:85221:425] BRUTE-FORCE Login Attempt [**]
+[**] [1:89256:564] MMALWARE-BACKDOOR possible Htran setup command [**]
