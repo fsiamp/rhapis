@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/fsiamp/rhapis/master/logo.png)
+![alt tag](https://raw.githubusercontent.com/Softdonkey/rhapis/master/logo.png)
 
 <b>RHAPIS - Network Intrusion Detection Systems Simulator</b><br>
 
@@ -6,9 +6,9 @@
 
 # Screenshots
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/rhapis/master/attack.png)
+![alt tag](https://raw.githubusercontent.com/Softdonkey/rhapis/master/attack.png)
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/rhapis/master/mobile.png)
+![alt tag](https://raw.githubusercontent.com/Softdonkey/rhapis/master/mobile.png)
 
 # Basic Usage
 
